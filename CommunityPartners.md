@@ -1,4 +1,4 @@
-# Community Partn
+# Community Partners
 
 Meet our amazing community partners ✨
 
