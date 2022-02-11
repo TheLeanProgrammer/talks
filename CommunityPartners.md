@@ -9,7 +9,8 @@ Meet our amazing community partners ✨
 | 1      | Code Dazzlers | [@codedazzlers](https://www.linkedin.com/company/codedazzlers/) | 
 | 2      | Code Bounty | [@code-bounty](https://www.linkedin.com/company/code-bounty/) | 
 | 3      | Eduhub Community | [@eduhub-community](https://www.linkedin.com/company/eduhub-community/) | 
-| 1      | Coddict Community | [@coddict-community](https://www.linkedin.com/company/coddict-community/) | 
+| 4      | Coddict Community | [@coddict-community](https://www.linkedin.com/company/coddict-community/) | 
+| 5      | The Query Crew | [@thequerycrew](https://www.linkedin.com/company/thequerycrew/) | 
 
 
 
